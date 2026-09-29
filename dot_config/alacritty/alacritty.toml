@@ -1,0 +1,19 @@
+[window]
+opacity = 0.75
+
+[font]
+size = 9.0
+
+[font.normal]
+family = "NotoSansM Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "NotoSansM Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "NotoSansM Nerd Font"
+style = "Italic"
+
+
